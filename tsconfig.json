@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "jsx": "react",
+        "target": "ES6",
+        "noEmit": true,
+        "noImplicitAny": true
+    }
+}
